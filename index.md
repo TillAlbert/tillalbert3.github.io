@@ -6,8 +6,8 @@ published: true
 
 
 
-#**DOAG PL/SQL Conventions**
 
+#**DOAG PL/SQL Conventions**
 
 
 ## Introduction
@@ -23,5 +23,3 @@ The DOAG PL/SQL Conventions are from the community for the community...
 ### 8. [Transaction handling](transactions.html)
 ### 9. [Performance](performance.html)
 ### 0. [How to use ( mainly for authors )](howto.html)
-
-
